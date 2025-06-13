@@ -25,8 +25,8 @@ and "help wanted" is open to whoever wants to implement it.
 
 ## Write Documentation
 
-{BOOK NAME} could always use more documentation, whether as part of the
-official {BOOK NAME} docs, in docstrings, or even on the web in blog posts,
+GLOCAL Data Analysis Handbook could always use more documentation, whether as part of the
+official GLOCAL Data Analysis Handbook docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 ## Submit Feedback
@@ -42,7 +42,7 @@ If you are proposing a feature:
 
 ## Get Started
 
-Ready to contribute? Here's how to set up `{BOOK NAME}` for local development.
+Ready to contribute? Here's how to set up `GLOCAL Data Analysis Handbook` for local development.
 
 1. Fork the repo on GitHub.
 2. Clone your fork locally.
@@ -53,4 +53,4 @@ Ready to contribute? Here's how to set up `{BOOK NAME}` for local development.
 
 ## Code of Conduct
 
-Please note that the {BOOK NAME} project is released with a [Contributor Code of Conduct](CONDUCT.md). By contributing to this project you agree to abide by its terms.
+Please note that the GLOCAL Data Analysis Handbook project is released with a [Contributor Code of Conduct](CONDUCT.md). By contributing to this project you agree to abide by its terms.

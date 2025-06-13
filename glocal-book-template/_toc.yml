@@ -1,17 +1,18 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
 root: index
-parts:
-  - caption: "Sample Part 1"
-    chapters:
-      - file: sample-chapter-1/intro
 
-  - caption: "Python"
-    chapters:
-      - file: python/python-basics
-        sections:
-          - file: sample-part-3/chapter-folder-1/file-management
-
-  
+nav:
+  - Data Visualization Best Practices:
+      - visualization_tips
+      - citation
+  - Workflow for Data Analysis:
+      - workflow/index
+      - workflow/data-analysis
+      - workflow/data-cleaning
+      - workflow/data-visualization
+      - workflow/exploratory-data-analysis
+      - workflow/feature-engineering
+  - Missing Data and Troubleshooting:
+      - missingdata
+  - Review & Feedback:
+      - election_dashboard_feedback

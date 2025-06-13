@@ -3,7 +3,7 @@
 # If you wish to continue using _config.yml, make edits to that file and
 # re-generate this one.
 ###############################################################################
-author = 'Your Name Here'
+author = 'Mia Han, Daniel Biel'
 bibtex_bibfiles = ['references.bib']
 comments_config = {'hypothesis': False, 'utterances': False}
 copyright = '2024'
@@ -28,7 +28,7 @@ html_theme_options = {
         'deepnote_url': ''
         }, 
     'path_to_docs': 'docs', 
-    'repository_url': 'Your Github Repo Here', 
+    'repository_url': 'https://github.com/Glocal-Open-Source/data-analysis-handbook.git', 
     'repository_branch': 'main', 
     'extra_footer': '', 
     'home_page_in_toc': True, 
