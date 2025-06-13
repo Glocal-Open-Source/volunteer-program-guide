@@ -24,7 +24,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Regenerate Sphinx conf
-        working-directory: glocal-scraping-guideline
+        working-directory: data-analysis-handbook
         run: jupyter-book config sphinx .
 
       - name: Build Jupyter Book
