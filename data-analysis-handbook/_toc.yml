@@ -1,18 +1,22 @@
 format: jb-book
 root: index
 
-nav:
-  - Data Visualization Best Practices:
-      - visualization_tips
-      - citation
-  - Workflow for Data Analysis:
-      - workflow/index
-      - workflow/data-analysis
-      - workflow/data-cleaning
-      - workflow/data-visualization
-      - workflow/exploratory-data-analysis
-      - workflow/feature-engineering
-  - Missing Data and Troubleshooting:
-      - missingdata
-  - Review & Feedback:
-      - election_dashboard_feedback
+parts:
+  - caption: "Data Visualization Best Practices":
+    chapters:
+      - file: visualization_tips
+      - file: citation
+  - caption: "Workflow for Data Analysis":
+    chapters:
+      - file: workflow/index
+      - file: workflow/data-analysis
+      - file: workflow/data-cleaning
+      - file: workflow/data-visualization
+      - file: workflow/exploratory-data-analysis
+      - file: workflow/feature-engineering
+  - caption: "Missing Data and Troubleshooting":
+    chapters:
+      - file: missingdata
+  - caption "Review & Feedback":
+    chapters:
+      - file: election_dashboard_feedback
