@@ -10,11 +10,11 @@ parts:
   - caption: "Workflow for Data Analysis"
     chapters:
       - file: workflow/index
-      - file: workflow/data-analysis
-      - file: workflow/data-cleaning
-      - file: workflow/data-visualization
       - file: workflow/exploratory-data-analysis
+      - file: workflow/data-cleaning
       - file: workflow/feature-engineering
+      - file: workflow/data-visualization
+      - file: workflow/data-analysis
 
   - caption: "Missing Data and Troubleshooting"
     chapters:

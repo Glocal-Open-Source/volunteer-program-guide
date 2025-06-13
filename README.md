@@ -1,43 +1,31 @@
-# Making this book your own
-This repo contains most of the necessary parts of a Jupyter-book (configured for GLOCAL usage) - I've included a few sample parts and chapters as a starting point. Sample Part 3 Chapter 3 is probably my best example of 'good' markdown usage - so use it as a reference sheet if you'd like.
+# GLOCAL Data Analysis Handbook
 
-## What to Change:
-- SAMPLE_README.md lines 1, 3, 4, 5 (also rename to just README.md)
-- CONTRIBUTING.md lines 28, 29, 45, 56
-- deploy.yml (if publishing) lines 27, 32, 33, 38
-- glocal-book-template folder name
-- glocal-book-template/_config.yml lines 8, 9, 29
-- glocal-book-template/conf.py lines 6, 31,
+How-To, Best Practices, and Expectations
 
-## Table of Contents FAQ:
-Formatting a TOC is a̶n̶n̶o̶y̶i̶n̶g̶  easy - just follow this template:
-```yml
-format: jb-book
-root: index
+## Usage
 
-parts:
-  - caption: "Part One"
-    chapters:
-      - file: part-one/intro
-      - file: part-one/chapter-a
-        sections:
-          - file: part-one/chapter-a/section-1
-          - file: part-one/chapter-a/section-2
-      - file: part-one/chapter-b
+### Building the book
 
-  - caption: "Part Two"
-    chapters:
-      - file: part-two/chapter-c
-      - file: part-two/chapter-d
-        sections:
-          - file: part-two/chapter-d/section-3
-          - file: part-two/chapter-d/section-4
+If you'd like to develop and/or build the GLOCAL Data Analysis Handbook book, you should:
 
-  - caption: "Extras"
-    chapters:
-      - file: extras/glossary
-      - file: extras/appendix
-      - url: https://example.com
-        title: "External Link"
+1. Clone this repository
+2. Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
+3. (Optional) Edit the books source files located in the `glocal-scraping-guideline/` directory
+4. Run `jupyter-book clean glocal-scraping-guideline/` to remove any existing builds
+5. Run `jupyter-book build glocal-scraping-guideline/`
 
-```
+A fully-rendered HTML version of the book will be built in `glocal-scraping-guideline/_build/html/`.
+
+### Hosting the book
+
+Please see the [Jupyter Book documentation](https://jupyterbook.org/publish/web.html) to discover options for deploying a book online using services such as GitHub, GitLab, or Netlify.
+
+For GitHub and GitLab deployment specifically, the [cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book) includes templates for, and information about, optional continuous integration (CI) workflow files to help easily and automatically deploy books online with GitHub or GitLab. For example, if you chose `github` for the `include_ci` cookiecutter option, your book template was created with a GitHub actions workflow file that, once pushed to GitHub, automatically renders and pushes your book to the `gh-pages` branch of your repo and hosts it on GitHub Pages when a push or pull request is made to the main branch.
+
+## Contributors
+
+We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab]({REPO CONTRIBUTORS TAB}).
+
+## Credits
+
+This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book).
