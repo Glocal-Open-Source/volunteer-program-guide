@@ -2,11 +2,12 @@ format: jb-book
 root: index
 
 parts:
-  - caption: "Data Visualization Best Practices":
+  - caption: "Data Visualization Best Practices"
     chapters:
       - file: visualization_tips
       - file: citation
-  - caption: "Workflow for Data Analysis":
+
+  - caption: "Workflow for Data Analysis"
     chapters:
       - file: workflow/index
       - file: workflow/data-analysis
@@ -14,9 +15,11 @@ parts:
       - file: workflow/data-visualization
       - file: workflow/exploratory-data-analysis
       - file: workflow/feature-engineering
-  - caption: "Missing Data and Troubleshooting":
+
+  - caption: "Missing Data and Troubleshooting"
     chapters:
       - file: missingdata
-  - caption "Review & Feedback":
+
+  - caption: "Review & Feedback"
     chapters:
       - file: election_dashboard_feedback
