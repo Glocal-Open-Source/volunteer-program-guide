@@ -1,4 +1,4 @@
-# 1: Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 - Show summary statistics for your data (e.g., mean, min, median, max, percentiles, etc.) to understand the overall distribution.
 

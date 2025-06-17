@@ -1,4 +1,4 @@
-# 2: Data Cleaning
+# Data Cleaning
 
 
 - Rename columns for clarity and drop any columns that won’t be useful for analysis.
