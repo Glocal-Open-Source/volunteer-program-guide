@@ -23,3 +23,7 @@ parts:
   - caption: "Review & Feedback"
     chapters:
       - file: election_dashboard_feedback
+
+  - caption: "Resources"
+    chapters:
+      - file: resources
