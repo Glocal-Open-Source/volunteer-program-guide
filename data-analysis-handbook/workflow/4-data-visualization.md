@@ -1,4 +1,4 @@
-# 4: Data Visualization
+# Data Visualization
 
 
 - Use various plot types to highlight trends and patterns in your data—choose the ones that are most interpretable for your audience.

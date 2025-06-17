@@ -3,10 +3,10 @@
 # If you wish to continue using _config.yml, make edits to that file and
 # re-generate this one.
 ###############################################################################
-author = 'Mia Han, Daniel Biel'
+author = 'Mia Han'
 bibtex_bibfiles = ['references.bib']
 comments_config = {'hypothesis': False, 'utterances': False}
-copyright = '2024'
+copyright = '2025'
 exclude_patterns = ['**.ipynb_checkpoints', '.DS_Store', 'Thumbs.db', '_build']
 extensions = ['sphinx_togglebutton', 'sphinx_copybutton', 'myst_nb', 'jupyter_book', 'sphinx_thebe', 'sphinx_comments', 'sphinx_external_toc', 'sphinx.ext.intersphinx', 'sphinx_design', 'sphinx_book_theme', 'sphinxcontrib.bibtex', 'sphinx_jupyterbook_latex', 'sphinx_multitoc_numbering', 'myst_parser']
 external_toc_exclude_missing = False
@@ -45,11 +45,11 @@ html_theme_options = {
     "logo": {
         "image_light": "logo-light.png", 
         "image_dark": "logo-dark.png",
-        "link": "https://glocalfoundation.ca/"
+        "link": "index.html"
         }, 
     'logo_only': True
     }
-html_title = 'BOOK NAME'
+html_title = 'Data Analysis Handbook'
 latex_engine = 'pdflatex'
 myst_enable_extensions = ['colon_fence', 'dollarmath', 'linkify', 'substitution', 'tasklist']
 myst_url_schemes = ['mailto', 'http', 'https']
