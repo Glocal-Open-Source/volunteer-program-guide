@@ -18,7 +18,7 @@ That being said, what can you do if you cannot find the data that you're looking
 ## Do's
 - Investigate why the data is missing. Is it due to privacy, confidentiality, or simply not reported? 
 - Look for alternative datasets that may include missing information. You may even need to find a different source, provided the data is reported in the same manner, then combine the sets.
-- If possible, contact the data provider, publisher, or relevant officere to clarify missing entries.
+- If possible, contact the data provider, publisher, or relevant data officers to clarify missing entries.
 - Document all assumptions and methods used to handle missing data so that others can assess the reliability of your conclusions.
 
 ## If All Else Fails...
