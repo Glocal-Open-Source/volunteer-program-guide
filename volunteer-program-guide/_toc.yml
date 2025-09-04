@@ -2,29 +2,7 @@ format: jb-book
 root: index
 
 parts:
-  - caption: "Data Visualization Best Practices"
+  - caption: "Getting Started as a Volunteer"
     chapters:
-      - file: visualization_tips
-      - file: citation
-
-  - caption: "Workflow for Data Analysis"
-    chapters:
-      - file: workflow/index
-        sections:
-          - file: workflow/1-exploratory-data-analysis
-          - file: workflow/2-data-cleaning
-          - file: workflow/3-feature-engineering
-          - file: workflow/4-data-visualization
-          - file: workflow/5-data-analysis
-
-  - caption: "Missing Data and Troubleshooting"
-    chapters:
-      - file: missingdata
-
-  - caption: "Review & Feedback"
-    chapters:
-      - file: election_dashboard_feedback
-
-  - caption: "Resources"
-    chapters:
-      - file: resources
+      - file: getting-started/welcome
+      - file: getting-started/onboarding

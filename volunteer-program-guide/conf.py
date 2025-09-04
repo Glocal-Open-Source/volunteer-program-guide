@@ -3,7 +3,7 @@
 # If you wish to continue using _config.yml, make edits to that file and
 # re-generate this one.
 ###############################################################################
-author = 'Mia Han'
+author = 'GLOCAL Foundation of Canada'
 bibtex_bibfiles = ['references.bib']
 comments_config = {'hypothesis': False, 'utterances': False}
 copyright = '2025'
@@ -28,13 +28,13 @@ html_theme_options = {
         'deepnote_url': ''
         }, 
     'path_to_docs': 'docs', 
-    'repository_url': 'https://github.com/Glocal-Open-Source/data-analysis-handbook.git', 
+    'repository_url': 'https://github.com/Glocal-Open-Source/volunteer-program-guide.git', 
     'repository_branch': 'main', 
     'extra_footer': '', 
     'home_page_in_toc': True, 
     'announcement': '', 
     'analytics': {
-        'google_analytics_id': '', 
+        'google_analytics_id': 'G-TJXKJFVDYM', 
         'plausible_analytics_domain': '', 
         'plausible_analytics_url': 
         'https://plausible.io/js/script.js'
@@ -49,7 +49,7 @@ html_theme_options = {
         }, 
     'logo_only': True
     }
-html_title = 'Data Analysis Handbook'
+html_title = 'Volunteer Program Guide'
 latex_engine = 'pdflatex'
 myst_enable_extensions = ['colon_fence', 'dollarmath', 'linkify', 'substitution', 'tasklist']
 myst_url_schemes = ['mailto', 'http', 'https']
