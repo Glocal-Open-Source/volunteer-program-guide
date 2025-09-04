@@ -4,10 +4,42 @@
 :class: sd-bg-light sd-border-primary
 :shadow: lg
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit orci in sem ultricies, nec elementum magna luctus. Suspendisse potenti. Morbi nec metus nec erat aliquet tincidunt.  
+### Welcome to the Lorem Ipsum Research Project
 
-📊 **Currently published:** Report on Mr. Ipsum
-📝 **In progress:** Follow up on Mr. Ipsum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit orci in sem ultricies, nec elementum magna luctus. Suspendisse potenti. Cras pretium lorem vel dignissim dapibus. Sed id luctus lorem, sit amet iaculis ex. Praesent at orci orci. In hac habitasse platea dictumst.  
+
+This project seeks to build a stronger understanding of lorem communities and provide actionable insights for future initiatives. It is designed as a multi-phase effort that will grow over time, with contributions from volunteers across several tracks.
+
+---
+
+### How You Can Help  
+
+As a volunteer, you will play a vital role in supporting this work. Common tasks include:  
+
+- Assisting with data cleaning and organization  
+- Helping with survey distribution and outreach  
+- Drafting short policy summaries based on findings  
+- Creating simple graphics or infographics for reports  
+
+Your involvement ensures the project can move forward efficiently and that findings are clear, accessible, and impactful.  
+
+---
+
+### Current Status  
+
+📊 **Currently published:** Report on Mr. Ipsum  
+📝 **In progress:** Follow up on Mr. Ipsum  
+
+---
+
+### Contacts  
+
+For guidance, coordination, or questions, please reach out:  
+
+- **Lead Researcher:** Jane Placeholder (jane.placeholder@example.org)  
+- **Volunteer Coordinator:** John Placeholder (john.placeholder@example.org)  
+- **Technical Support:** Alex Placeholder (alex.placeholder@example.org)  
+
 ```
 
 ---
