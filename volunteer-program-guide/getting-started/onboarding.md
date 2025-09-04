@@ -33,41 +33,32 @@ Submit your completed work using the **Google Form** linked in this guide.
 
 ## Virtual & Mentorship Sessions
 
-🔗 Orientation Booking:  
-- [Session 1](https://glocalfoundation.ca/get-involved-1/ola/services/online-volunteering-interviews)  
-- [Session 2](https://glocalfoundation.ca/get-involved-1/ola/services/online-volunteering-orientation-session)  
-
-
 ```{list-table} Time Options by Time Zone
 :header-rows: 1
 :widths: 15 15 15 15 15 15
 
-* - Eastern (EST)
+* - Session Link
+  - Eastern (EST)
   - Pacific (PST)
   - Mountain (MST)
   - Central (CST)
   - Atlantic (AST)
   - NL (NST)
-* - 12:00–12:30
+* - [Session 1](https://glocalfoundation.ca/get-involved-1/ola/services/online-volunteering-interviews)   
+  - 12:00–12:30
   - 9:00–9:30
   - 10:00–10:30
   - 11:00–11:30
   - 13:00–13:30
   - 13:30–14:00
-* - 15:00–15:30
+* - [Session 2](https://glocalfoundation.ca/get-involved-1/ola/services/online-volunteering-orientation-session)  
+  - 15:00–15:30
   - 12:00–12:30
   - 13:00–13:30
   - 14:00–14:30
   - 16:00–16:30
   - 17:30–18:00
-* - 16:00–17:00
-  - 13:00–14:00
-  - 14:00–15:00
-  - 15:00–16:00
-  - 17:00–18:00
-  - 17:30–18:30
 ```
-
 
 ```{dropdown} Drop-In Sessions
 **Focus:** Micro-grants Discussion  
