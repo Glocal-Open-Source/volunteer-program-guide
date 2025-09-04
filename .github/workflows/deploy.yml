@@ -23,18 +23,18 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Regenerate Sphinx conf
-        working-directory: data-analysis-handbook
+        working-directory: volunteer-program-guide
         run: jupyter-book config sphinx .
 
       - name: Build Jupyter Book
         run: |
-          jupyter-book clean data-analysis-handbook
-          jupyter-book build data-analysis-handbook
+          jupyter-book clean volunteer-program-guide
+          jupyter-book build volunteer-program-guide
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: data-analysis-handbook/_build/html
+          path: volunteer-program-guide/_build/html
 
   deploy:
     needs: build

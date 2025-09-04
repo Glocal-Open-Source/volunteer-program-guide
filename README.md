@@ -10,11 +10,11 @@ If you'd like to develop and/or build the GLOCAL Data Analysis Handbook book, yo
 
 1. Clone this repository
 2. Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
-3. (Optional) Edit the books source files located in the `data-analysis-handbook/` directory
-4. Run `jupyter-book clean data-analysis-handbook/` to remove any existing builds
-5. Run `jupyter-book build data-analysis-handbook/`
+3. (Optional) Edit the books source files located in the `volunteer-program-guide/` directory
+4. Run `jupyter-book clean volunteer-program-guide/` to remove any existing builds
+5. Run `jupyter-book build volunteer-program-guide/`
 
-A fully-rendered HTML version of the book will be built in `data-analysis-handbook/_build/html/`.
+A fully-rendered HTML version of the book will be built in `volunteer-program-guide/_build/html/`.
 
 ### Hosting the book
 
