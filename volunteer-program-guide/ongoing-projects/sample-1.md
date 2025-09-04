@@ -46,40 +46,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ---
 
-## Full Project Narrative
-
-```{admonition} Background
-:class: note
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin nisl vel magna convallis, sit amet laoreet turpis pharetra. Donec vel lorem vel neque tristique ultricies vitae id justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-```
-
-```{admonition} Methodology
-:class: tip
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-- Lorem ipsum dolor sit amet  
-- Consectetur adipiscing elit  
-- Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-```
-
-```{admonition} Findings
-:class: important
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod ligula et neque suscipit, non sollicitudin justo bibendum. Nulla facilisi. Integer pretium sapien vel metus luctus, a tincidunt justo hendrerit.
-```
-
-```{admonition} Next Steps
-:class: warning
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-- Lorem ipsum dolor sit amet  
-- Consectetur adipiscing elit  
-- Sed do eiusmod tempor incididunt
-```
-
----
-
 ## How to Contribute
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus sem vitae leo finibus, vitae luctus ligula cursus. Proin at eros vitae felis porttitor dignissim. Suspendisse scelerisque, nisl nec eleifend gravida, velit neque tempor urna, eget varius justo lorem id velit. Cras gravida vehicula felis, vel interdum libero dictum vitae. Aenean egestas, tortor nec fermentum ullamcorper, justo magna viverra est, sit amet aliquam nunc erat at lacus. 
