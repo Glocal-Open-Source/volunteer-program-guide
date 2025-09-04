@@ -1,16 +1,16 @@
-format: jb-book
-root: index
-
 parts:
   - caption: "Getting Started as a Volunteer"
     chapters:
       - file: getting-started/welcome
       - file: getting-started/onboarding
+
   - caption: "Research Projects"
     chapters:
-      - caption: "Ongoing"
+      - file: ongoing-projects/index
+        title: "Ongoing"
         sections:
           - file: ongoing-projects/sample-1
-      - caption: "Completed"
+      - file: completed-projects/index
+        title: "Completed"
         sections:
-          - file: ongoing-projects/sample-1
+          - file: completed-projects/sample-1
