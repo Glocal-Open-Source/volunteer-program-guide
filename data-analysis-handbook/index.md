@@ -10,7 +10,6 @@ This resource is built by and for the data community. If you have experience wit
 
 | Name        | Contribution               |
 |-------------|----------------------------|
-| Mia Han, 
-  Vicky Huang | Primary Author             |
+| Mia Han, Vicky Huang | Primary Author             |
 | Jia Yue He  | Editing and Quality Review |
 | Daniel Biel | Template Setup             |
