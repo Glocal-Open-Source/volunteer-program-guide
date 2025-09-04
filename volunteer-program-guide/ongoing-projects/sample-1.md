@@ -36,14 +36,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit orci i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ```
 
-```{figure} _static/images/sample_infographic.png
-:name: fig-sample-infographic
-:width: 70%
-:align: center
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-```
-
 ---
 
 ## How to Contribute
