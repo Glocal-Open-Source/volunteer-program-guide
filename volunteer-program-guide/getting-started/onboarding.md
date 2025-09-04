@@ -1,34 +1,47 @@
+# How to Start
 
-# How to start
-
-```{note}
 As a **volunteer**, you will have the opportunity to make a meaningful contribution to digital civic engagement and collaborate with Canadians from across the country.  
 
 We believe volunteering is not only impactful, but also **rewarding and enriching**.
-````
 
 ---
 
 ## Getting Started
 
-```{admonition} Step 1
-:class: tip
-Review and save this **Program Guide**.  
-It’s your go-to resource for all important information and tasks you may complete.
+```{grid} 1 1 2 2
+:gutter: 2
+
+```{card} Step 1 — Save the Guide
+:class: sd-bg-light sd-border-info
+:shadow: md
+
+**Review and save this Program Guide**  
+This is your central resource for tasks, references, and essential information throughout your GLOCAL journey.  
+
 ```
 
-```{admonition} Step 2
-:class: important
-Kickstart your civic engagement projects and meet your team!  
-👉 Join us on **Discord** using your email: *GLOCAL Discord*
+```{card} Step 2 — Connect with Your Team
+:class: sd-bg-light sd-border-warning
+:shadow: md
+
+**Kickstart your civic engagement projects**  
+Collaboration is at the heart of GLOCAL. Join our digital community to start working with your peers.  
+
+[Join the GLOCAL Discord](https://discord.gg/SWTY3mnFCy)  
+Use your volunteer email to sign in and meet staff, managers, and fellow volunteers.
 ```
 
-```{admonition} Step 3
-:class: tip
-Watch the **onboarding videos** for different tracks.  
-Develop new digital skills with our **GLOCAL Warm-Up Tasks**.  
+```{card} Step 3 — Learn & Contribute
+:class: sd-bg-light sd-border-success
+:shadow: md
 
-📤 Submit completed tasks using the Google Form linked in this guide.
+**Watch the onboarding videos** to explore different volunteer tracks.  
+Practice new skills with our **GLOCAL Warm-Up Tasks**.  
+Submit your completed work using the **Google Form** linked in this guide.  
+
+[Onboarding Videos & Track Overview](getting-started/track-overviews.md)
+```
+
 ```
 
 ---
@@ -70,43 +83,45 @@ Develop new digital skills with our **GLOCAL Warm-Up Tasks**.
 ```{dropdown} Drop-In Sessions
 **Focus:** Micro-grants Discussion  
 **Format:** 20-min appointments with GLOCAL staff for mentorship and program questions.  
+
+🔗 [Join Micro-grants Session](https://meet.google.com/yof-nazx-uor)
 ```
 
 ---
 
 ## Frequently Asked Questions
 
-```{dropdown} 1. How do I apply?
-- Fill out the **Application Form**.  
+```{dropdown} How do I apply?
+- [Fill out the form and choose a time slot on this page](https://glocalfoundation.ca/get-involved-1)
 - After submission, you’ll get an invite to schedule your onboarding session (30–50 minutes).  
 - Sessions run on weekdays at 12 pm or 3 pm (Toronto time).  
 - If none work, email **admin@glocalfoundation.ca** with your preferred times.
 ```
 
-```{dropdown} 2. What happens during onboarding sessions?
+```{dropdown} What happens during onboarding sessions?
 Our staff and track managers provide:  
 - An overview of online volunteer work and projects  
 - A chance to align your goals and passions with GLOCAL’s programs  
 - Direct connection to track managers for guidance
 ```
 
-```{dropdown} 3. Main communication channels
+```{dropdown} Main communication channels
 - **Email:** project submissions, formal communication  
 - **Discord:** daily discussions with volunteers and staff  
 - **Task Form:** submit your completed work  
 - **Google Meet / Zoom:** group or one-on-one meetings, events
 ```
 
-```{dropdown} 4. Where can I find important forms?
+```{dropdown} Where can I find important forms?
 This **Program Guide** will remain your main source of truth.
 ```
 
-```{dropdown} 5. How are hours tracked?
+```{dropdown} How are hours tracked?
 Use the **task submission form**.  
 A volunteer portal is in development for easier tracking.
 ```
 
-````{dropdown} 6. Recognition and opportunities
+````{dropdown} Recognition and opportunities
 - **Monthly & Annual Awards**  
 - **Social Media Highlights**  
 - **LinkedIn Kudos**  
@@ -118,11 +133,4 @@ A volunteer portal is in development for easier tracking.
 ```{note}
 Your dedication not only makes a difference—  
 it also opens doors to **career opportunities and personal development**.
-````
-
-```
-
----
-
-Would you like me to also add some **sphinx-design cards** (side-by-side callouts for Step 1–3, or recognition benefits) so it looks less text-heavy and more modular in the final Jupyter Book build?
 ```
