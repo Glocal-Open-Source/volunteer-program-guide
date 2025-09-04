@@ -6,3 +6,11 @@ parts:
     chapters:
       - file: getting-started/welcome
       - file: getting-started/onboarding
+  - caption: "Research Projects"
+    chapters:
+      - caption: "Ongoing"
+        sections:
+          - file: ongoing-projects/sample-1
+      - caption: "Completed"
+        sections:
+          - file: ongoing-projects/sample-1
