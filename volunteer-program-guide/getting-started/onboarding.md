@@ -35,7 +35,7 @@ Submit your completed work using the **Google Form** linked in this guide.
 
 ```{list-table} Time Options by Time Zone
 :header-rows: 1
-:widths: 15 15 15 15 15 15
+:widths: 15 15 15 15 15 15 15
 
 * - Session Link
   - Eastern (EST)
@@ -44,7 +44,7 @@ Submit your completed work using the **Google Form** linked in this guide.
   - Central (CST)
   - Atlantic (AST)
   - NL (NST)
-* - [Session 1](https://glocalfoundation.ca/get-involved-1/ola/services/online-volunteering-interviews)   
+* - [Session 1](https://glocalfoundation.ca/get-involved-1/ola/services online-volunteering-interviews)   
   - 12:00–12:30
   - 9:00–9:30
   - 10:00–10:30
