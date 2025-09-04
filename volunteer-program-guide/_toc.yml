@@ -1,3 +1,6 @@
+format: jb-book
+root: index
+
 parts:
   - caption: "Getting Started as a Volunteer"
     chapters:
