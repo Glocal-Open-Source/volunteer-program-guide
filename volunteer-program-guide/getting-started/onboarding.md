@@ -6,17 +6,13 @@ We believe volunteering is not only impactful, but also **rewarding and enrichin
 
 ---
 
-### Step 1 — Save the Guide
-**Review and save this Program Guide**  
+### Save the Guide
+**Review and bookmark this Program Guide**  
 This is your central resource for tasks, references, and essential information throughout your GLOCAL journey.  
-
-🔗 Orientation Booking:  
-- [Noon ET Session](https://glocalfoundation.ca/get-involved-1/ola/services/online-volunteering-interviews)  
-- [3 PM ET Session](https://glocalfoundation.ca/get-involved-1/ola/services/online-volunteering-orientation-session)  
 
 ---
 
-### Step 2 — Connect with Your Team
+### Connect with Your Team
 **Kickstart your civic engagement projects**  
 Collaboration is at the heart of GLOCAL. Join our digital community to start working with your peers.  
 
@@ -25,7 +21,7 @@ Use your volunteer email to sign in and meet staff, managers, and fellow volunte
 
 ---
 
-### Step 3 — Learn & Contribute
+### Learn & Contribute
 **Watch the onboarding videos** to explore different volunteer tracks.  
 Practice new skills with our **GLOCAL Warm-Up Tasks**.  
 Submit your completed work using the **Google Form** linked in this guide.  
@@ -37,7 +33,10 @@ Submit your completed work using the **Google Form** linked in this guide.
 
 ## Virtual & Mentorship Sessions
 
-**Meeting Link:** [Google Meet](https://meet.google.com/yof-nazx-uor)
+🔗 Orientation Booking:  
+- [Session 1](https://glocalfoundation.ca/get-involved-1/ola/services/online-volunteering-interviews)  
+- [Session 2](https://glocalfoundation.ca/get-involved-1/ola/services/online-volunteering-orientation-session)  
+
 
 ```{list-table} Time Options by Time Zone
 :header-rows: 1
