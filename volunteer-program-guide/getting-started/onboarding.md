@@ -6,43 +6,32 @@ We believe volunteering is not only impactful, but also **rewarding and enrichin
 
 ---
 
-## Getting Started
-
-```{grid} 1 1 2 2
-:gutter: 2
-
-```{card} Step 1 — Save the Guide
-:class: sd-bg-light sd-border-info
-:shadow: md
-
+### Step 1 — Save the Guide
 **Review and save this Program Guide**  
 This is your central resource for tasks, references, and essential information throughout your GLOCAL journey.  
 
-```
+🔗 Orientation Booking:  
+- [Noon ET Session](https://glocalfoundation.ca/get-involved-1/ola/services/online-volunteering-interviews)  
+- [3 PM ET Session](https://glocalfoundation.ca/get-involved-1/ola/services/online-volunteering-orientation-session)  
 
-```{card} Step 2 — Connect with Your Team
-:class: sd-bg-light sd-border-warning
-:shadow: md
+---
 
+### Step 2 — Connect with Your Team
 **Kickstart your civic engagement projects**  
 Collaboration is at the heart of GLOCAL. Join our digital community to start working with your peers.  
 
-[Join the GLOCAL Discord](https://discord.gg/SWTY3mnFCy)  
+🔗 [Join the GLOCAL Discord](https://discord.gg/SWTY3mnFCy)  
 Use your volunteer email to sign in and meet staff, managers, and fellow volunteers.
-```
 
-```{card} Step 3 — Learn & Contribute
-:class: sd-bg-light sd-border-success
-:shadow: md
+---
 
+### Step 3 — Learn & Contribute
 **Watch the onboarding videos** to explore different volunteer tracks.  
 Practice new skills with our **GLOCAL Warm-Up Tasks**.  
 Submit your completed work using the **Google Form** linked in this guide.  
 
-[Onboarding Videos & Track Overview](getting-started/track-overviews.md)
-```
+🔗 [Onboarding Videos & Track Overview](getting-started/track-overviews.md)
 
-```
 
 ---
 
@@ -55,29 +44,29 @@ Submit your completed work using the **Google Form** linked in this guide.
 :widths: 15 15 15 15 15 15
 
 * - Eastern (EST)
-  - Pacific (PST)
-  - Mountain (MST)
-  - Central (CST)
-  - Atlantic (AST)
-  - NL (NST)
+- Pacific (PST)
+- Mountain (MST)
+- Central (CST)
+- Atlantic (AST)
+- NL (NST)
 * - 12:00–12:30  
-  - 9:00–9:30  
-  - 10:00–10:30  
-  - 11:00–11:30  
-  - 13:00–13:30  
-  - 13:30–14:00
+- 9:00–9:30  
+- 10:00–10:30  
+- 11:00–11:30  
+- 13:00–13:30  
+- 13:30–14:00
 * - 15:00–15:30  
-  - 12:00–12:30  
-  - 13:00–13:30  
-  - 14:00–14:30  
-  - 16:00–16:30  
-  - 17:30–18:00
+- 12:00–12:30  
+- 13:00–13:30  
+- 14:00–14:30  
+- 16:00–16:30  
+- 17:30–18:00
 * - 16:00–17:00  
-  - 13:00–14:00  
-  - 14:00–15:00  
-  - 15:00–16:00  
-  - 17:00–18:00  
-  - 17:30–18:30
+- 13:00–14:00  
+- 14:00–15:00  
+- 15:00–16:00  
+- 17:00–18:00  
+- 17:30–18:30
 ```
 
 ```{dropdown} Drop-In Sessions
