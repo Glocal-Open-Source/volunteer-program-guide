@@ -14,7 +14,7 @@ Use the arrows to move through the carousel.
     <div class="carousel-item active">
       <h2>Data Track</h2>
       <video width="70%" controls>
-        <source src="volunteer-program-guide\getting-started\_static\sample.mp4" type="video/mp4">
+        <source src="https://file-examples.com/storage/fe1b41fe7468bb4759e2cbb/2017/04/file_example_MP4_480_1_5MG.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div style="max-width: 800px; margin: 20px auto; text-align: left; font-size: 1.1em;">
@@ -31,7 +31,7 @@ Use the arrows to move through the carousel.
     <div class="carousel-item">
       <h2>Digital Track</h2>
       <video width="70%" controls>
-        <source src="volunteer-program-guide\getting-started\_static\sample.mp4" type="video/mp4">
+        <source src="https://file-examples.com/storage/fe1b41fe7468bb4759e2cbb/2017/04/file_example_MP4_480_1_5MG.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div style="max-width: 800px; margin: 20px auto; text-align: left; font-size: 1.1em;">
@@ -48,7 +48,7 @@ Use the arrows to move through the carousel.
     <div class="carousel-item">
       <h2>Communication Track</h2>
       <video width="70%" controls>
-        <source src="volunteer-program-guide\getting-started\_static\sample.mp4" type="video/mp4">
+        <source src="https://file-examples.com/storage/fe1b41fe7468bb4759e2cbb/2017/04/file_example_MP4_480_1_5MG.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div style="max-width: 800px; margin: 20px auto; text-align: left; font-size: 1.1em;">
@@ -65,7 +65,7 @@ Use the arrows to move through the carousel.
     <div class="carousel-item">
       <h2>Research Track</h2>
       <video width="70%" controls>
-        <source src="volunteer-program-guide\getting-started\_static\sample.mp4" type="video/mp4">
+        <source src="https://file-examples.com/storage/fe1b41fe7468bb4759e2cbb/2017/04/file_example_MP4_480_1_5MG.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div style="max-width: 800px; margin: 20px auto; text-align: left; font-size: 1.1em;">
@@ -82,7 +82,7 @@ Use the arrows to move through the carousel.
     <div class="carousel-item">
       <h2>Compliance Track</h2>
       <video width="70%" controls>
-        <source src="volunteer-program-guide\getting-started\_static\sample.mp4" type="video/mp4">
+        <source src="https://file-examples.com/storage/fe1b41fe7468bb4759e2cbb/2017/04/file_example_MP4_480_1_5MG.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div style="max-width: 800px; margin: 20px auto; text-align: left; font-size: 1.1em;">
@@ -99,7 +99,7 @@ Use the arrows to move through the carousel.
     <div class="carousel-item">
       <h2>Outreach Track</h2>
       <video width="70%" controls>
-        <source src="volunteer-program-guide\getting-started\_static\sample.mp4" type="video/mp4">
+        <source src="https://file-examples.com/storage/fe1b41fe7468bb4759e2cbb/2017/04/file_example_MP4_480_1_5MG.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div style="max-width: 800px; margin: 20px auto; text-align: left; font-size: 1.1em;">
