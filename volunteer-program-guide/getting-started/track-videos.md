@@ -12,42 +12,42 @@ Browse through the carousel below to explore each of the six volunteer track int
     <div class="carousel-item active">
       <h3>Data Track</h3>
       <video width="80%" controls>
-        <source src="../onboarding/_static/sample.mp4" type="video/mp4">
+        <source src="../getting-started/_static/sample.mp4" type="video/mp4">
       </video>
     </div>
 
     <div class="carousel-item">
       <h3>Digital Track</h3>
       <video width="80%" controls>
-        <source src="../onboarding/_static/sample.mp4" type="video/mp4">
+        <source src="../getting-started/_static/sample.mp4" type="video/mp4">
       </video>
     </div>
 
     <div class="carousel-item">
       <h3>Communication Track</h3>
       <video width="80%" controls>
-        <source src="../onboarding/_static/sample.mp4" type="video/mp4">
+        <source src="../getting-started/_static/sample.mp4" type="video/mp4">
       </video>
     </div>
 
     <div class="carousel-item">
       <h3>Research Track</h3>
       <video width="80%" controls>
-        <source src="../onboarding/_static/sample.mp4" type="video/mp4">
+        <source src="../getting-started/_static/sample.mp4" type="video/mp4">
       </video>
     </div>
 
     <div class="carousel-item">
       <h3>Compliance Track</h3>
       <video width="80%" controls>
-        <source src="../onboarding/_static/sample.mp4" type="video/mp4">
+        <source src="../getting-started/_static/sample.mp4" type="video/mp4">
       </video>
     </div>
 
     <div class="carousel-item">
       <h3>Outreach Track</h3>
       <video width="80%" controls>
-        <source src="../onboarding/_static/sample.mp4" type="video/mp4">
+        <source src="../getting-started/_static/sample.mp4" type="video/mp4">
       </video>
     </div>
 
