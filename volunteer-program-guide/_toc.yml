@@ -6,6 +6,7 @@ parts:
     chapters:
       - file: getting-started/welcome
       - file: getting-started/onboarding
+      - file: getting-started/track-videos
 
   - caption: "Research Projects"
     chapters:
